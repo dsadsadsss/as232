@@ -1,4 +1,4 @@
-### ECH_worker 订阅版
+### ECH_worker windows订阅版
 
 节点格式：
 ```
