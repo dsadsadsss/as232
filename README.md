@@ -4,7 +4,7 @@
 ```
 ech://xxx.workers.dev:443|令牌|ip.sb|dns.alidns.com/dns-query|cloudflare-ech.com#节点名字
 ```
-例如：
+例如：KEJILAND 节点
 ```
 ech://ech.hkvip.ip-ddns.com:443||ip.sb|dns.alidns.com/dns-query|gitlab.io#日本|KEJILAND
 ```
